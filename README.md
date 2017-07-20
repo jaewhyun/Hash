@@ -1,2 +1,4 @@
 # Hash
 BU MET CS341 Final #1b
+
+This problem also works with hashprog1a.cpp of problem 1A, but the work involved with this problem is not related to problem 1A.  So, please make a fresh start.  You will observe that the program hashprog1a.cpp does not use the C++ class object-oriented construct. What I need you to do is to create a C++ class and to put the arrays, calculations and tests for the hashing algorithm of that program into the class.  Also, the final display of the arrays of the hashing algorithm should be done using a method of your C++ class.  Then, please declare an object of your class in the main of the program and make calls to the methods of your class to substitute for the applicable programming in the main.  Also, comment out the code from your main which will be superseded by your method cas.
